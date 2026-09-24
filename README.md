@@ -1,5 +1,7 @@
 ## Olá 👋
 
+Engenheiro de Software e Tech Lead · Arquitetura (Clean Architecture, DDD, microsserviços) · CI/CD · IA aplicada · MBA em Arquitetura
+
  <div>
   <a href="https://github.com/rssperez">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rssperez&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
