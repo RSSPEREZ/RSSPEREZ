@@ -5,7 +5,7 @@
 
 ### Olá, eu sou o Ricardo.
 
-Engenheiro de software e **Tech Lead no Itaú Unibanco**. Lidero tecnicamente squads de engenharia desde 2020 e desenho sistemas que aguentam crescer: domínio isolado, entrega automatizada e qualidade embutida desde o início.
+Engenheiro de software e **Tech Lead**. Lidero tecnicamente squads de engenharia desde 2020 e desenho sistemas que aguentam crescer: domínio isolado, entrega automatizada e qualidade embutida desde o início.
 
 - **Agora:** liderando uma squad de melhoria de indicadores: pipelines de CI/CD, modernização de ambientes e processo de implantação.
 - **No laboratório:** engenharia com IA: agentes, subagentes e Spec-Driven Development com Claude Code.
