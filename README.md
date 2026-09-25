@@ -14,15 +14,6 @@ Engenheiro de software e **Tech Lead no Itaú Unibanco**. Lidero tecnicamente sq
 
 ---
 
-### Trajetória
-
-| Período | Função | Onde |
-| --- | --- | --- |
-| 2021 — hoje | **Tech Lead** · squad de melhoria de indicadores | Itaú Unibanco |
-| 2020 — 2021 | **Tech Lead** · squad Seguro Prestamista | Itaú Unibanco |
-| 2017 — 2020 | **Engenheiro de Software** · squad de Capitalização (COBOL / mainframe) | Itaú Unibanco |
-| 2016 — 2017 | **Analista de Automação** · engenharia de testes | Inmetrics |
-
 ### Como eu construo
 
 - **Arquitetura:** Clean Architecture · DDD · SOLID · arquitetura hexagonal · microsserviços · event-driven
